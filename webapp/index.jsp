@@ -17,7 +17,7 @@
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
-  <h4>duckgitproject</h4>
+  <h4>Happy holi 2022 my dear students of Duckgitproject</h4>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
